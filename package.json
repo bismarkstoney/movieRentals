@@ -1,0 +1,26 @@
+{
+  "name": "movierentals",
+  "version": "1.0.0",
+  "description": "for the ghana movie industry",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Movies",
+    "Gallywood",
+    "Kumawood",
+    "Local",
+    "movies",
+    "Ghanaian",
+    "Movies",
+    "Africa",
+    "Movies"
+  ],
+  "author": "Bismark Obeng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^13.1.0"
+  }
+}
